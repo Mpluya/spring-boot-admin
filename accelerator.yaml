@@ -5,7 +5,7 @@ accelerator:
   tags: 
     - Java
     - Python
-    - Spring Boot
+    - SpringBoot
     - Spring
     - Microservices
     - Admin
